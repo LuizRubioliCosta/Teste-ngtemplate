@@ -2,10 +2,10 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
-import { CardComponent } from './component/card/card.component';
-import { NgcontentinfoComponent } from './component/ngcontentinfo/ngcontentinfo.component';
-import { NgcontentcheckComponent } from './component/ngcontentcheck/ngcontentcheck.component';
-import { NgcontentplansComponent } from './component/ngcontentplans/ngcontentplans.component';
+import { CardComponent } from './components/card/card.component';
+import { NgcontentinfoComponent } from './components/infos/ngcontentinfo.component';
+import { NgcontentcheckComponent } from './components/check/ngcontentcheck.component';
+import { NgcontentplansComponent } from './components/plans/ngcontentplans.component';
 
 @NgModule({
   declarations: [
