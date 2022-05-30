@@ -1,0 +1,27 @@
+.matCard{
+position:relative;
+display:flex;
+width:380px;
+height:420px;
+top:50px;
+background-color:white;
+border:2px solid #7EBC0A;
+}
+
+.matButton{
+  position:absolute;
+  bottom:30px;
+  right:28px;
+  //display:flex;
+  //justify-content:space-around;
+
+}
+
+.btn{
+width:134px;
+height:41px;
+text-color:white;
+font-size:14px;
+background-color:#7EBC0A;
+margin-right: 10px;
+}
